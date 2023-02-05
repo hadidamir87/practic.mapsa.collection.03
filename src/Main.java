@@ -8,6 +8,9 @@ public class Main {
 //    node01.appendToTail(50);
 //    node011.appendToTail(10);
         System.out.println(node01);
+        System.out.println(node01);
+        System.out.println(node01);
+        System.out.println(node01);
 
     }
 }
